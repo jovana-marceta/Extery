@@ -1,0 +1,32 @@
+.border-none {
+	border: none !important;
+}
+
+.set-block {display: block;}
+
+.set-relative {position: relative;}
+
+.set-flex {display: flex;}
+
+.center {text-align: center;}
+
+.display-none {
+	display: none;
+}
+
+.overlay {
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background-color: rgba(#000, .8);
+}
+
+.opacity-0 {
+	opacity: 0;
+}
+
+.opacity-1 {
+	opacity: 1;
+}

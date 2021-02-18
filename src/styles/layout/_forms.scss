@@ -1,0 +1,16 @@
+input,
+textarea {
+	background: #000;
+	border: none;
+	border-radius: 0;
+	box-shadow: none;
+	color: #000;
+	height: 25px;
+	padding: 0 10px;
+	outline: none;
+	resize: none;
+	height: 36px;
+	&::placeholder {
+		color: #000;
+	}
+}
