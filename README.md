@@ -161,9 +161,8 @@ In this case, the image does not respond to color changes.
 
 **[⬆ back to menu](#documentation)** 
 
-## Copyright and license of Front-end builder
+## Copyright and license of Front-end builder - 2019 Maksim Abuzyarow under the  [MIT license](http://opensource.org/licenses/MIT)
 
-Copyright 2019 Maksim Abuzyarov under the [MIT license](http://opensource.org/licenses/MIT).
 =======
 
 
