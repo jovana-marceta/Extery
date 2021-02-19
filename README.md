@@ -161,10 +161,9 @@ In this case, the image does not respond to color changes.
 
 **[⬆ back to menu](#documentation)** 
 
-## Copyright and license
+## Copyright and license of Front-end builder
 
 Copyright 2019 Maksim Abuzyarov under the [MIT license](http://opensource.org/licenses/MIT).
 =======
-# Extery
-Multi-page website with Webpack builder (in progress)
->>>>>>> 847ae2f7886c1925d43854e936685e39e65b22d5
+
+
