@@ -1,7 +1,6 @@
 // Fonts
-$font-primary: 'Raleway', sans-serif;
-$font-secondary: 'Frank Ruhl Libre', serif;
-$font-third: 'Noto Serif', sans-serif;
+$font-primary: 'Roboto', sans-serif;
+$font-secondary: 'Raleway', sans-serif;
 
 // Screen Resolutions
 $xl-lg: 1580px;
@@ -15,10 +14,13 @@ $sm-extra: 320px;
 // Colors
 $black: #000;
 $white: #fff;
+$gray: #888;
+$blue: #3a6af0;
 
 $site-colors: (
 	'black': $black,
-	'white': $white
+	'white': $white,
+	'gray': $gray
 ) !default;
 
 

@@ -13,3 +13,21 @@ input[type='submit'] {
 	outline: none;
 	padding: 0;
 }
+
+.btn {
+	color: $white;
+	display: inline-block;
+	text-align: center;
+	text-transform: uppercase;
+	padding: 0 25px;
+	height: 40px;
+	line-height: 40px;
+	font-size: 14px;
+	font-weight: 700;
+	@include border-radius(5px);
+}
+
+.btn--secondary {
+	background: $blue;
+	margin-left: 30px;
+}

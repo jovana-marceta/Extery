@@ -1,3 +1,15 @@
 
+.header {
+	background-color: orange;
+	border-bottom: 1px solid #363d8a;;
+	padding: 10px 0;
 
+	&__container {
+		justify-content: space-between;
+	}
+
+	&__logo {
+		width: 158px;
+	}
+}
 

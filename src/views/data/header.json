@@ -1,0 +1,12 @@
+{
+	"logo": "assets/img/main/logos/logo.png",
+	"btn-text": "Buy ticket",
+	"menu": [
+		"Home",
+		"About",
+		"Speakers",
+		"Schedule",
+		"Blog",
+		"Contact"
+	]
+}

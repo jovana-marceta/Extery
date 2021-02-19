@@ -1,3 +1,21 @@
-<header>
-	<h1>This is header</h1>
+<header class="header">
+	<div class="wrap">
+		<div class="header__container set-flex">
+			<a href="javascript:;">
+				<img src="{{header.logo}}" alt="" class="header__logo">
+			</a>
+			{{#if header.menu}}
+			<nav class="nav set-flex">
+				<ul class="nav__list set-flex">
+					{{#each header.menu}}
+					<li class="nav__list-item">
+						<a href="javascript;" class="nav__list-link">{{this}}</a>
+					</li>
+					{{/each}}
+				</ul>
+				<a href="javascript:;" class="btn btn--secondary">{{header.btn-text}}</a>
+			</nav>
+			{{/if}}
+		</div>
+	</div>
 </header>

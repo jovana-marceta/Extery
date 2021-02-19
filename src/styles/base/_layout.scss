@@ -1,6 +1,16 @@
-// body {
-// }
+body {
+	color: $gray;
+	line-height: 26px;
+	font-size: 16px;
+	font-family: $font-primary;
+	font-weight: 400;
+}
 
-// // .wrap {
+.wrap {
+	max-width: 1140px;
+	margin: 0 auto;
+	height: 100%;
+	width: 100%;
+}
 
-// // }
+
